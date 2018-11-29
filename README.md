@@ -16,4 +16,4 @@ omg exec wolfram -a query= <your_query> -a units = <metrics/imperial> -e APP_ID 
 
 ```
 
-Unit argument is not required, the default is based on your location
+"units" argument is not required, the default is based on your location.
