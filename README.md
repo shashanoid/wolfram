@@ -1,6 +1,6 @@
-#Wolfram Alpha Short Answers API as a microservice
+# Wolfram Alpha Short Answers API as a microservice
 
-##Usage
+## Usage
 
 ```
 
@@ -8,7 +8,7 @@ omg exec wolfram -a query= <your_query> -e APP_ID = <wolfram_app_id>
 
 ```
 
-###OR
+### OR
 
 ```
 
