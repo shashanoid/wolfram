@@ -5,7 +5,6 @@ import sys
 import requests
 
 from flask import Flask, make_response, request
-from flask import jsonify
 
 
 class Handler:
