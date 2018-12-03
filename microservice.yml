@@ -8,6 +8,7 @@ actions:
       path: /shortanswer
       method: post
       port: 8000
+      contentType: application/json
     arguments:
       query:
         type: string
@@ -18,7 +19,8 @@ actions:
         required: false
         in: requestBody
     output:
-      type: string
+      type: object
+      contentType: application/json
 
 environment:
   APP_ID:

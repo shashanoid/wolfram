@@ -1,4 +1,4 @@
-# Wolfram Alpha Short Answers API as a microservice
+# Wolfram Alpha Short Answers as a microservice
 
 ## Installation and Build
 ```
